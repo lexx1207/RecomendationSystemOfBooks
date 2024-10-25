@@ -36,7 +36,6 @@ colorama==0.4.4
 colorlog==6.8.2
 comet-ml==3.38.1
 comm==0.1.4
-command-not-found==0.3
 configobj==5.0.8
 contourpy==1.1.1
 cryptography==3.4.8
