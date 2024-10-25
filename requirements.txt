@@ -60,7 +60,6 @@ docopt==0.6.2
 docutils==0.20.1
 dtale==3.9.0
 dulwich==0.21.7
-duplicity==0.8.21
 ecos==2.0.13
 et-xmlfile==1.1.0
 everett==3.1.0
